@@ -9,4 +9,4 @@ Group 19 : CodingSquad
 
 -Ronald Jaglal, 816003245
 
-[Status report - week 1](myLib/Status Report Wk1_rev2.docx)
+[Status report - week 1](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20Report%20Wk1_rev2.docx)
