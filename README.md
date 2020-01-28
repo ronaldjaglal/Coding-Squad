@@ -1,7 +1,7 @@
 # Coding-Squad
 Group 19 : CodingSquad 
 
-*Members: 
+# Members: 
 
 -Vinod Lochan Dassrath, 816117511 
 
