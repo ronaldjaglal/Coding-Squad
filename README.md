@@ -8,3 +8,5 @@ Group 19 : CodingSquad
 -Jose Bravo Mata, 816011156 
 
 -Ronald Jaglal, 816003245
+
+[Status report - week 1](myLib/Status Report Wk1_rev2.docx)
