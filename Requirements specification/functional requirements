@@ -1,0 +1,13 @@
+1. A user shall be able to search for a weather station using location, name and proximity.
+2. A user shall be able to register an account for interacting with the system's weather web app.
+3. The system shall be able to attain weather information from a weather station and store it in a database.
+4. The system shall be able to take weather data from a database and send it to a web app for display.
+5. A user shall be able to add a weather station to the system's available weather stations.
+6. A user shall be able to add a weather station to his list of favourite stations for later viewing.
+7. A user shall be able to get a list of weather log data from each station.
+8. The system shall be able to keep a store of logs of weather data for each station on a database.
+9. The user shall be able to view weather data in a graph format.
+10. The user shall be able to view a list of the weather stations that he owns and has added to the system's available weather stations.
+11. The user shall be able to initiate notifications that will alert them when sensor readings fall out of or into a certain (user specified) range.
+12. The user shall be able to delete and clear logs from a weather station.
+13. The user shall have the ability to deactivate their account.
