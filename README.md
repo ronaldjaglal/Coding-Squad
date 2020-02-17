@@ -14,3 +14,5 @@ Group 19 : CodingSquad
 [Status report - week 2](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk2.docx)
 
 [Status report - week 3](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk3.docx)
+
+[Status report - week 4](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk4.docx)
