@@ -11,7 +11,7 @@ Group 19 : CodingSquad
 
 # Main:
 
-[Project files](https://github.com/ronaldjaglal/Coding-Squad)
+[Project files](https://github.com/ronaldjaglal/Coding-Squad?files=1)
 
 # Status reports:
 
