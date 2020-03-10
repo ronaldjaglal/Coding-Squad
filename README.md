@@ -25,6 +25,6 @@ Group 19 : CodingSquad
 
 [Status report - week 5](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk5.docx)
 
-#Web App:
+# Web App:
 
 [App site](https://testpwa-bbae4.firebaseapp.com/index.html)
