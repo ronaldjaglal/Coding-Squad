@@ -1,0 +1,16 @@
+{
+  "name": "WeatherPal",   
+  "short_name": "WeatherPal", 
+  "icons": [
+  {
+    "src": "/images/icon.png",
+    "sizes": "200x200",
+    "type": "image/png"
+  }
+],
+  "lang": "en-US",     
+  "start_url": "/index.html", 
+  "display": "standalone",  
+  "background_color": "white",   
+  "theme_color": "black" 
+}
