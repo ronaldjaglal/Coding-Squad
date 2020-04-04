@@ -31,8 +31,14 @@ Group 19 : CodingSquad
 
 [Status report - week 8](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk8.docx)
 
+[Status report - week 9](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk9.docx)
+
+[Status report - week 10](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk10.docx)
+
+[Status report - week 11](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk11.docx)
+
 # Web App:
 
-[App site](https://pi-weather-station-project.firebaseapp.com)
+[App site](https://weatherpal-f300b.firebaseapp.co)
 
-[App code](https://weatherpal-f300b.firebaseapp.com)
+[App code]()
