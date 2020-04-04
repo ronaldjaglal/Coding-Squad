@@ -35,4 +35,4 @@ Group 19 : CodingSquad
 
 [App site](https://pi-weather-station-project.firebaseapp.com)
 
-[App code](https://github.com/ronaldjaglal/Coding-Squad/tree/master/App%20code)
+[App code](https://weatherpal-f300b.firebaseapp.com)
