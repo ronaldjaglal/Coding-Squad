@@ -43,6 +43,8 @@ Group 19 : CodingSquad
 
 [Status report - week 14](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk14.docx)
 
+[Status report - week 15](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk15.docx)
+
 # Web App:
 
 [App site](https://weatherpal-f300b.firebaseapp.co)
