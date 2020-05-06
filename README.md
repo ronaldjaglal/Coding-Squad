@@ -47,7 +47,6 @@ Group 19 : CodingSquad
 
 [Status report - week 16](https://github.com/ronaldjaglal/Coding-Squad/blob/master/Status%20rep/G19_CodingSquad_Report_Wk16.docx)
 
-[Status report -
 
 # Web App:
 
