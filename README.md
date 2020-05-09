@@ -50,6 +50,6 @@ Group 19 : CodingSquad
 
 # Web App:
 
-[App site](https://weatherpal-f300b.firebaseapp.co)
+[App site](https://weatherpal-f300b.firebaseapp.com)
 
-[App code](https://github.com/ronaldjaglal/Coding-Squad/blob/master/App%20code/App%20code.zip)
+[App code](https://github.com/ronaldjaglal/Coding-Squad/blob/master/App%20code/)
