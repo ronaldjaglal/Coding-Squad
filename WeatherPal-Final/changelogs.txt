@@ -1,0 +1,55 @@
+4/4/2020
+Comments added sheet restyled to be more presentable/understandable.
+last function worked on was notifications.
+
+17/04/2020
+function added to delete user account
+function added to check if user is logged in
+added functionality to send user to login screen if logged in returns false
+page added for account settings
+modularized some elements(removed certain dependencies and separated certain components)
+
+18/04/2020
+ensured delete function works
+code refactored
+
+29/04/2020
+Made change password function
+code refactoring
+
+30/04/2020
+Updated code for functionality
+code refactored(account.html and related files)
+error checks for the files aforementioned
+minor changes to main.html
+added button and function for retrieving the entire station list
+removed attributes.js and put content in logfunctions.js
+
+1/04/2020
+Implemented function to search for stations by location using geocoding
+
+02/04/2020
+Implemented function to search for nearest station
+fixed log formatting
+refactored code 
+Implemented function to sort log tables using the headers
+started work on function to save logs
+
+04/04/2020
+Started fitting code to ui
+Created account, login and search pages
+Updated ui elements
+
+05/04/2020
+Updated ui elements
+Fixed pages to display weather data
+
+06/04/2020
+Removed un-useful code
+Fixed index to display logs and station info
+Comments added to files
+Log charts added to index page
+
+
+
+

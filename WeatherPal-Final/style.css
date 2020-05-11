@@ -1,0 +1,268 @@
+body{
+	 width:100%;
+	 height:100%;
+	}
+/*style of navbar*/
+.nav-wrapper{
+     /* background-color: #1e88e5; */
+     background-color:black;
+     /* background-image:url('real_cf.png'); */
+    height:100%;
+     
+}
+a.brand-logo{
+  font-size:1em;
+  background: url(cloud.jpg);
+  background-size: cover;
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+  
+}
+.brand-logo-b{
+font-size:1em;
+background: url(cloud.jpg);
+  background-size: cover;
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+}
+/*style of sidenav*/
+ul.sidenav{
+  background-color: rgba(189, 195, 199, .7);
+  top:56px;
+  height:100%;
+  padding-bottom:30vh;
+}
+
+/*not sure what this was for*/
+.ele{
+  font-weight:bold;
+  color: white;
+  opacity:1;
+}
+
+/*style of body*/
+body {
+    font-family: 'Montserrat', sans-serif;
+    /* background-size:cover;
+    background-color: grey; */
+    background-image:url('real_cf.png');
+    height: auto;
+}
+/*style for button selected effect*/
+.waves-effect.waves-brown .waves-ripple {
+   /* The alpha value allows the text and background color
+   of the button to still show through. */
+    background-color: #1e88e5;
+    
+  }
+  /*style for items for the tabs menu */
+ .carousel .carousel-item {
+    width: 100%;
+    height:100%;
+       
+}
+
+
+header{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  padding: 50px 15px 15px;
+}
+
+.search-box{
+  width: 100%;
+  max-width:280px;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  background-color:rgba(255, 255, 255, 0.3);
+  border-radius: 16px 0px 16px 0px;
+  border-bottom: 3px solid #DF8E00;
+
+  color:#313131;
+  font-size: 20px;
+  font-weight: 300;
+  transition:0.2s ease-out;
+}
+
+header input:focus{
+  background-color: rgba(255, 255, 255, 0.6);
+}
+/*style of todays weather*/
+main{
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  flex: 1 1 100%;
+  padding: 25px 25px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  text-align: center;
+  background-image:url('real_cf.png');
+}
+
+.location .city{
+  color:white;
+  font-size:32px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.location .date{
+  color: white;
+  font-size:16px;
+}
+
+.current .temp{
+  color: white;
+  font-size: 150px;
+  font-weight:900;
+  margin:30px 0px;
+  /* text-shadow: 2px 10px rgba(0, 0, 0, 0.6); */
+  background: url(cloud.jpg);
+  background-size: cover;
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+
+}
+
+.cloud{
+	color:white;
+	font-size:2em;
+    font-weight:900;
+	background: url(cloud.jpg);
+  background-size: cover;
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+	}
+
+.current .temp span{
+  font-weight:500;
+}
+
+.current .weather{
+  color: white;
+  font-size: 32px;
+  font-weight:700;
+  font-style: italic;
+  margin-bottom:15px;
+  text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+/*style of tabs bar*/
+/* li.tab.col.s3{
+ 
+  color: #DF8E00;
+} */
+li.tab.col.s3 a{
+      color: rgba(31, 116, 228, 0.63)
+}
+
+.tabs .indicator{
+  background-color: #DF8E00;
+}
+
+/* .carousel-item p {
+        height:100%;
+        width: 100%;
+        padding: 10px;
+      } */
+      .carousel .carousel-item {
+          height:100vh !important;
+          
+      }
+      div.tabcontent{ 
+        margin:10px, 10px; 
+        /* background: rgb(62,201,212);
+background: radial-gradient(circle, rgba(62,201,212,0.5) 0%, rgba(30,136,229,0.5) 100%);width: 100%;  */
+        background-image:url('real_cf.png');
+        overflow-x: hidden; 
+        overflow-x:auto;
+        text-align:justify; 
+      } 
+      div.tabcontent p, div.tabcontent h3{ 
+        color: grey;
+        margin:10px, 10px; 
+        padding:10px;          
+        width: 100%; 
+        overflow-x: hidden; 
+        overflow-x: auto; 
+        text-align:center; 
+      } 
+       div.tabcontent main{ 
+        height: 100%;
+       
+      } 
+
+/* mainsheet styles */
+.display{
+	color:white;
+	}
+
+#searchbar{
+	width:170px;	
+}
+
+#signout{
+	position:absolute;
+}
+
+#signout:hover{
+	color:red;
+}
+
+#listheader{
+	text-align:center;
+	font-style:bold;
+}
+
+.accountoptions{
+	font-size:2em;
+}
+
+.accountoptions:hover{
+	color:#0000FF;
+}
+
+.hidden, #signout{
+	display:none;	
+}
+
+.box{
+	margin:auto;
+	width:100%;
+	padding:10px;
+}
+
+.center{
+	text-align:center;
+}
+
+#yahoo{
+	width:100%;
+	}
+
+#yahoo p{
+	margin:auto;
+	background-color:purple;
+	font-weight:bold;
+	padding:10px 35px 10px 35px;
+	width:220px;
+	border-radius:2px;
+	}
+	
+.medium{
+  font-size:2em;
+}
+
+.align{
+  margin:0% 30% 0% 30%;
+  width:40%;
+	
+}
+	
+	
