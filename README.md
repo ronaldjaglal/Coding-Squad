@@ -51,5 +51,6 @@ Group 19 : CodingSquad
 # Web App:
 
 [App site](https://weatherpal-f300b.firebaseapp.com)
-
+[Final report](https://docs.google.com/document/d/1V089U31WFekgbi_h73XegQAJnbMQUsrzPYr-4jG5KkY/edit?usp=drivesdk)
+[Video presentation link](https://myuwi-my.sharepoint.com/:v:/g/personal/vinod_dassrath_my_uwi_edu/EbT4TCWW9Q9IkS7bxfXVWswBZhnXQk6KF8stMrp0xPn1Hg?e=7HLsYW)
 [App code](https://github.com/ronaldjaglal/Coding-Squad/blob/JoseBravoMata-WeatherPal-version-final/App%20code/weatherPal3%20Final.zip)
