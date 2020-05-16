@@ -52,4 +52,4 @@ Group 19 : CodingSquad
 
 [App site](https://weatherpal-f300b.firebaseapp.com)
 
-[App code](https://github.com/ronaldjaglal/Coding-Squad/blob/master/App%20code/)
+[App code](https://github.com/ronaldjaglal/Coding-Squad/blob/JoseBravoMata-WeatherPal-version-final/App%20code/weatherPal3%20Final.zip)
